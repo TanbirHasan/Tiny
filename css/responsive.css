@@ -1,0 +1,32 @@
+
+
+
+
+@media (max-width:1399px){
+
+}
+@media (max-width:1199px){
+
+}
+@media (max-width:991px){
+    .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 65%;
+        max-width: 67%;
+    }
+
+     .icon .col-md-3 .media{
+         margin-left: 10px;
+     }
+
+}
+@media (max-width:767px){
+
+    .Tiny-header .banner .inner-text {
+        width: 100%;
+        padding-left: 90px;
+    }
+}
+@media (max-width:575px){
+
+}
